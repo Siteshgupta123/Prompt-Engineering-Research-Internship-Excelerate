@@ -9,7 +9,6 @@ Welcome to the official repository of my research project completed as part of t
 This project dives deep into **Prompt Engineering**, its practical tools, real-world integration, and impact on modern digital learning platforms.
 
 ---
----
 
 ## Objectives
 
@@ -28,25 +27,43 @@ This project dives deep into **Prompt Engineering**, its practical tools, real-w
 | Gemini       | GenAI by Google         | Gamified content creation, Google Docs integration |
 | LLaMA 3      | Meta’s Language Model   | Lightweight, flexible for scalable deployments |
 
+
+##  Internship Summary
+
+This 4-week internship focused on the exploration and integration of cutting-edge **AI tools** for virtual learning environments. We conducted research, comparison, feasibility analysis, and integration planning for tools such as **ChatGPT**, **Claude**, **Gemini**, **DeepSeek**, **Perplexity**, and **LLaMA 3**.
+
 ---
 
-## 📊 Week-by-Week Breakdown
+## AI Tools Comparison Table
 
-### ✅ Week 1 – Tool Research & Exploration
+| Criteria              | Perplexity AI        | Gemini AI           | LLaMA 3           | Claude             | DeepSeek           | ChatGPT             |
+|----------------------|----------------------|---------------------|-------------------|--------------------|--------------------|---------------------|
+| **Ease of Use**      | ★★★★☆               | ★★★☆☆              | ★★★★☆            | ★★★★★             | ★★★☆☆             | ★★★★★              |
+| **Cost**             | Free/Paid (Pro)      | Free                | Open Source       | Free (limited)     | Free/Open Source   | Free/Paid (Plus)    |
+| **Integration**      | API Available        | Strong w/ Google    | API via Meta      | Limited API        | Self-hosted API    | Rich API, Plugins   |
+| **Scalability**      | High (cloud-based)   | High (Google Infra) | Scalable (LLaMA)  | Medium             | Medium–High        | Very High (OpenAI)  |
+| **Strengths**        | Real-time answers + cites | Google doc integration | Lightweight, powerful | Natural, ethical writing | Analytical insights | Content generation, plugins |
+| **Limitations**      | Limited customization | Lacks deep context | Needs fine-tuning | Limited availability | Requires infra setup | Limited memory in free version |
+| **Best Used For**    | Research, Q&A        | Docs, summaries     | Custom AI builds  | Thoughtful writing  | Analytics, insights | Education, coding, content |
+---
+
+##  Week-by-Week Breakdown
+
+### Week 1 – Tool Research & Exploration
 - Researched 3 tools across GenAI applications.
 - Extracted features, specifications, strengths, and limitations.
 
-### ✅ Week 2 – Documentation & Comparison
+### Week 2 – Documentation & Comparison
 - Created structured documentation for each tool.
 - Developed a comparative analysis table with evaluation metrics.
 - Identified tool suitability based on task types.
 
-### ✅ Week 3 – Utilization & Integration Blueprint
+### Week 3 – Utilization & Integration Blueprint
 - Mapped tools to Excelerate opportunities (courses, events, internships).
 - Feasibility study with cost, scalability, and deployment factors.
 - Proposed short-term and long-term implementation strategies.
 
-### ✅ Week 4 – Final Report & Presentation
+### Week 4 – Final Report & Presentation
 - Consolidated all insights into a comprehensive report.
 - Delivered a 12-slide team presentation with data-backed recommendations.
 - Participated in live Q&A with feedback from senior leadership.
